@@ -13,4 +13,5 @@ Next js
 react js
 reaxt native 
 backend 
+reade updated 
 
