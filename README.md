@@ -1,6 +1,8 @@
 heading game
 javascript
 contribution 
+tic toa toe
+calender 
 # Game Cross & Circle Clash
 Popularly known as Tic-Tac-Toe
 need ro change name of repo 
